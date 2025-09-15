@@ -1,0 +1,201 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #1e1e1e;
+  height: 1024px;
+  position: relative;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 612px;
+  top: 817px;
+  overflow: hidden;
+}
+.footer {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 277px);
+  top: 917px;
+  width: 538px;
+}
+.frame-11 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 612px;
+  top: 709px;
+  overflow: hidden;
+}
+.frame-13 {
+  width: 1392px;
+  height: 786px;
+  position: absolute;
+  left: 0px;
+  top: 21px;
+}
+.frame-9 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1392px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 91px;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex: 1;
+  position: relative;
+}
+.riya-ambolkar {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: relative;
+  width: 306px;
+  height: 65px;
+}
+.frame-2 {
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.contact2 {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 1392px;
+  height: 78px;
+  position: absolute;
+  left: 0px;
+  top: 85px;
+}
+.contact-us {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.frame-12 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 1392px;
+  height: 49px;
+  position: absolute;
+  left: 10px;
+  top: 167px;
+}
+.reach-out-to-the-course-team-for-any-support-or-enquiries {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 1359px;
+}
+.student-contact-riya-ambolkar-riyaga-21-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 10px;
+  top: 251px;
+  width: 544px;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 14px;
+  top: 384px;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.professor-contact-paul-t-shapiro-pshapiro-umd-edu-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 17px;
+  top: 527px;
+  width: 462px;
+  height: 218px;
+}

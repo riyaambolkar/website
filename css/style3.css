@@ -1,0 +1,190 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #1e1e1e;
+  height: 1024px;
+  position: relative;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 612px;
+  top: 817px;
+  overflow: hidden;
+}
+.footer {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 276px);
+  top: 882px;
+  width: 538px;
+}
+.frame-11 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 612px;
+  top: 709px;
+  overflow: hidden;
+}
+.frame-13 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1392px;
+  position: absolute;
+  left: 0px;
+  top: 42px;
+}
+.frame-9 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 91px;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex: 1;
+  position: relative;
+}
+.riya-ambolkar {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: relative;
+  width: 306px;
+  height: 65px;
+}
+.frame-2 {
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.about2 {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.budt-748-industry-practicum {
+  color: #f4f4f4;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: relative;
+}
+.frame-12 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.budt-748-is-the-capstone-course-for-ms-information-systems-is-major-where-students-apply-their-knowledge-to-build-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-develop-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-a-career-in-technology-and-consulting {
+  color: #f4f4f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 1359px;
+}
+.semester-details-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.semester-details-fall-2025-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-fall-2025-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.professor-paul-t-shapiro-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.professor-paul-t-shapiro-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
